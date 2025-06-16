@@ -8,6 +8,7 @@ public class ProxyApplication {
 
 	public static void main(String[] args) {
 		System.out.println("test");
+		System.out.println("123123");
 		SpringApplication.run(ProxyApplication.class, args);
 	}
 
